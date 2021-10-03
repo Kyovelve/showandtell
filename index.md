@@ -49,8 +49,7 @@ As part of the course, the group has conceptualised an app called EcoFinance tha
 
 ## Useful site on climate change and the Paris agreement we all heard so much about:
 1. [Environmental Graphiti®](https://www.environmentalgraphiti.org/) Let Arts do the talk science
-2. [Future Scenarios](https://www.vox.com/22620706/climate-change-ipcc-report-2021-ssp-scenario-future-warming) Future climate scenarios explained
-3. [Climate Action Trakcer](https://climateactiontracker.org) Do you know the progress of your country for climate actions? 
+2. [Climate Action Trakcer](https://climateactiontracker.org) Do you know the progress of your country for climate actions? 
 
 
 ## Resources that will need efforts to make it more widely available and easy to be used:
