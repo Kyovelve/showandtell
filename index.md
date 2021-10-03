@@ -20,7 +20,19 @@ I tried to make a workflow for twitter account and it turns out that you would n
 ### Twitter API & Twitter Project examples:
 
 - [Twitter API Users Case for Research](https://developer.twitter.com/en/use-cases/do-research)
-- [Twitter together Project in Githubhttps](https://github.com/marketplace/actions/twitter-together)
+- [Twitter together Project in Github](https://github.com/marketplace/actions/twitter-together)
+
+
+# Programming 101 
+- [HTML CCS crash course](https://www.youtube.com/watch?v=qz0aGYrrlhU&t=148s)
+- [Javascript crash course](https://www.youtube.com/watch?v=W6NZfCO5SIk&t=357s)
+- [Array!](https://www.youtube.com/watch?v=G3BS3sh3D8Q)
+
+
+
+
+
+
 
 
 # Relating to EcoFinance (Climate & Sustainability) 
@@ -28,54 +40,25 @@ I tried to make a workflow for twitter account and it turns out that you would n
 Courtesy of [Becca Roberts](https://twitter.com/envirovisuals)
 
 
+## EcoFinance (project app)
+As part of the course, the group has conceptualised an app called EcoFinance that aims to raise awareness of the relationship bewteen finance and its impact on the larger society, more notably on the environment.
 
-## Useful site on climate change and I'm very fond of:
+- [EcoFinance Frontend in Github](https://github.com/enson89/eco-finance-frontend/)
+- [EcoFinance Backend in Github](https://github.com/enson89/eco-finance-backend/)
+
+
+## Useful site on climate change and the Paris agreement we all heard so much about:
 1. [Environmental Graphiti®](https://www.environmentalgraphiti.org/) Let Arts do the talk science
 2. [Future Scenarios](https://www.vox.com/22620706/climate-change-ipcc-report-2021-ssp-scenario-future-warming) Future climate scenarios explained
+3. [Climate Action Trakcer](https://climateactiontracker.org) Do you know the progress of your country for climate actions? 
 
 
 ## Resources that will need efforts to make it more widely available and easy to be used:
+1. [Science-based target](https://sciencebasedtargets.org/resources/?tab=develop#resource) Resources in helping companies to set their own carbon reduction target
+2. [Financed Carbon Emission](https://carbonaccountingfinancials.com/) How to account for the carbon emission in Banks/insurance companies' loans & assets?  
 
 
 
-You can use the [editor on GitHub](https://github.com/Kyovelve/showandtell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
- 
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kyovelve/showandtell/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
