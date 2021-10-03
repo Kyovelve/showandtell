@@ -13,6 +13,9 @@ YES! this option is available
 - [Pull](https://github.com/git-guides/git-pull)(in my own words meaning reviewing changes that have been proposed to the original codes - hence pulling in changes and incorporate them if you like them!) 
 - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) (in my own words meaning making a copy at your own machine and thus any changes you make will not impact the upstream codes) 
 
+### what is [CI](https://circleci.com/continuous-integration/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--japac-en-githubActions-tImpShare-auth-nb&utm_term=g_p-github%20actions_c__rsa2_20210903&utm_content=sem-google-dg--japac-en-githubActions-tImpShare-auth-nb_keyword-text_rsa-githubActions_mixed-&gclid=EAIaIQobChMI9Nezlciq8wIVSR0rCh0q1guPEAAYASABEgKSMPD_BwE#what-is-continuous-integration)? 
+
+
 ## Something about Twitter
 
 I tried to make a workflow for twitter account and it turns out that you would need a developer account for it - if this is what you want to do for your show and tell, do remember to apply for it as it takes time to get approval from Twitter.  
