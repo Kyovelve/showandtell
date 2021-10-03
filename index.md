@@ -24,7 +24,19 @@ I tried to make a workflow for twitter account and it turns out that you would n
 
 
 # Relating to EcoFinance (Climate & Sustainability) 
-[Image](src)
+![image](https://user-images.githubusercontent.com/89756799/135739272-7bb40e1e-c508-4f6f-8f8b-4b67e04414d7.png)
+Courtesy of [Becca Roberts](https://twitter.com/envirovisuals)
+
+
+
+## Useful site on climate change and I'm very fond of:
+1. [Environmental Graphiti®](https://www.environmentalgraphiti.org/) Let Arts do the talk science
+2. [Future Scenarios](https://www.vox.com/22620706/climate-change-ipcc-report-2021-ssp-scenario-future-warming) Future climate scenarios explained
+
+
+## Resources that will need efforts to make it more widely available and easy to be used:
+
+
 
 You can use the [editor on GitHub](https://github.com/Kyovelve/showandtell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
