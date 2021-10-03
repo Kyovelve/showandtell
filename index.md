@@ -5,17 +5,27 @@ While professors and instructors are kind to explain what Github does, for those
 ## Desktop Github 
 YES! this option is available
 
-[Desktop Github](https://desktop.github.com) - this gets Github installed on your local machine and there are tutorials to guide you through the very basic concept:
+[Desktop Github](https://desktop.github.com) - this gets Github installed on your local machine and there are tutorials to guide you through 
 
-- Push (in my own words meaning making changes to the code and share it with others - push out for the world to see/review)
-- Pull (in my own words meaning reviewing changes that have been proposed to the original codes - hence pulling in changes and incorporate them if you like them!) 
-- Fork (in my own words meaning making a copy at your own machine and thus any changes you make will not impact the upstream codes) 
+### the very basic concept:
+
+- [Push](https://github.com/git-guides/git-push)(in my own words meaning making changes to the code and share it with others - push out for the world to see/review)
+- [Pull](https://github.com/git-guides/git-pull)(in my own words meaning reviewing changes that have been proposed to the original codes - hence pulling in changes and incorporate them if you like them!) 
+- [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) (in my own words meaning making a copy at your own machine and thus any changes you make will not impact the upstream codes) 
 
 ## Something about Twitter
 
-I tried to make a workflow for twitter account and it turns out that you would need a developer account for it - if this is what you want to do for your show and tell 
+I tried to make a workflow for twitter account and it turns out that you would need a developer account for it - if this is what you want to do for your show and tell, do remember to apply for it as it takes time to get approval from Twitter.  
 
-There are some cool github projects that you could fork 
+### Twitter API & Twitter Project examples:
+
+- [Twitter API Users Case for Research](https://developer.twitter.com/en/use-cases/do-research)
+- [Twitter together Project in Githubhttps]:(https://github.com/marketplace/actions/twitter-together)
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/Kyovelve/showandtell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
